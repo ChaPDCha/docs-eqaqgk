@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-2x7hlt.indocuan.space/sitemap.xml
